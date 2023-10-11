@@ -1,5 +1,8 @@
 # Skills-Lab6-Version-Control
 
+
+# Our 
+=======
 # Group Members: 
 Kyle Zheng, Erick Makita, and Felipe Castro
 
@@ -22,3 +25,4 @@ Make sure to ask the owner for permission to fork the code. Then make sure to co
 
 # Submission
 In order to submit the assignment. You must download the files that you need to (ex: the lab exercises folder). Then you must join a group on canvas. Once you join a group, you must submit the filename. 
+

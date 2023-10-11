@@ -1,0 +1,8 @@
+Our Official Lincese is "The Academic Free License (AFL)". We decided to chose this because of the vast amount of benefits it would have on our family friendly software which is meant to be easily utlize by any user.
+Our License:
+1. Makes clear what software is being licensed by including a statement following the software's copyright notice;
+2. Includes a complete copyright grant to the software;
+3. Contains a complete patent grant to the software;
+4. Makes clear that no trademark rights are granted to the licensor's trademarks;
+5. Warrants that the licensor either owns the copyright or is distributing the software under a license;
+6. Is itself copyrighted, with the right granted to copy and distribute without modification.
